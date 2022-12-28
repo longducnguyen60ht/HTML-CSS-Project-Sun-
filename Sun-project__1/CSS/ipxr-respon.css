@@ -1,0 +1,40 @@
+@media only screen and (max-width: 619px) and (min-width:414px)
+{
+    html
+    {
+        font-size: 11px;
+    }
+    .header__navBut__text
+    {
+        display: none;
+    }
+    .header__imdbpro
+    {
+        display: none;
+    }
+    .header__watchList
+    {
+        display: none;
+    }
+    .header__search
+    {
+        width: 50%;
+    }
+    .pd-main
+    {
+        padding: 0 1%;
+    }
+    .header__logo
+    {
+    width: 10%;
+    height: 90%;
+    }
+    .header__search
+    {
+        display: none;
+    }
+    .xMasTree
+    {
+        display: none;
+    }
+}
